@@ -1,0 +1,3 @@
+AddCharset utf-8 .php .html .js
+AddDefaultCharset off
+DirectoryIndex home.php
